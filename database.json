@@ -53,6 +53,15 @@
       "description": "adsasjdpasdjpasjdpasjpdaspdan aspodjaspodjapsdas",
       "start": "2022-04-13T05:20:00.000Z",
       "end": "2022-04-20T11:20:00.000Z"
+    },
+    {
+      "id": "7",
+      "title": "New event",
+      "color": "#2AA18A",
+      "location": "local",
+      "description": "There is a desdcritp",
+      "start": "2022-04-10T08:55:00.000Z",
+      "end": "2022-04-28T15:40:00.000Z"
     }
   ]
 }
