@@ -1,4 +1,5 @@
-  "database": [
+{
+ "database": [
     {
       "id": "1",
       "title": "Cardano Summit 2023",
@@ -40,3 +41,4 @@
       "end": "2023-06-22T18:30:00",
     },
   ]
+}
