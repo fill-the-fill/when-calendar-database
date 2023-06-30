@@ -53,6 +53,15 @@
       "description": "adsasjdpasdjpasjdpasjpdaspdan aspodjaspodjapsdas",
       "start": "2022-04-13T05:20:00.000Z",
       "end": "2022-04-20T11:20:00.000Z"
+    },
+    {
+      "id": "7",
+      "title": "Dubai Summit",
+      "color": "#2AA18A",
+      "location": "local",
+      "description": "This is an even t",
+      "start": "2022-04-06T00:10:00.000Z",
+      "end": "2022-04-22T12:25:00.000Z"
     }
   ]
 }
