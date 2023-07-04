@@ -53,6 +53,15 @@
       "description": "adsasjdpasdjpasjdpasjpdaspdan aspodjaspodjapsdas",
       "start": "2022-04-13T05:20:00.000Z",
       "end": "2022-04-20T11:20:00.000Z"
+    },
+    {
+      "id": "7",
+      "title": "Hardfork",
+      "color": "#0538af",
+      "location": "virtual",
+      "description": "This is a hardfork event ",
+      "start": "2022-04-07T07:10:00.000Z",
+      "end": "2022-04-07T19:55:00.000Z"
     }
   ]
 }
