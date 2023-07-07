@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "Cardano Summit 2023",
-      "color": "#0538af",
+      "color": "#3788d8",
       "location": "virtual",
       "description": "Lorem Ipsum is simply dummy text of the printing and typeset.",
       "start": "2023-06-29T14:30:00",
@@ -12,7 +12,7 @@
     {
       "id": "2",
       "title": "Hard Fork",
-      "color": "#0538af",
+      "color": "#3788d8",
       "location": "virtual",
       "description": "Lorem Ipsum is simply dummy text of the printing and typeset.",
       "start": "2023-06-27T17:30:00",
@@ -39,7 +39,7 @@
     {
       "id": "5",
       "title": "Ambassador Call",
-      "color": "#0538af",
+      "color": "#3788d8",
       "location": "virtual",
       "description": "Lorem Ipsum is simply dummy text of the printing and typeset.",
       "start": "2023-06-22T17:30:00",
@@ -48,7 +48,7 @@
     {
       "id": "6",
       "title": "Something",
-      "color": "#0538af",
+      "color": "#3788d8",
       "location": "virtual",
       "description": "adsasjdpasdjpasjdpasjpdaspdan aspodjaspodjapsdas",
       "start": "2022-04-13T05:20:00.000Z",
